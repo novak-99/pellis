@@ -1,5 +1,8 @@
 # Pellis
 
+Backend:
+https://drive.google.com/drive/folders/1tzEEiCelOoYSJxzpBsBbthqymmHycKN7?usp=sharing
+
 ## Inspiration
 Nearly 40% of people will be diagnosed with cancer at some point in their lives. Furthermore, 10-20% of people with cancer turn out to be misdiagnosed. Our team was inspired by this statistic among many others to help people like Josephine (Persona 1) . Our app will encourage users like Josephine to see a doctor when necessary, while at the same time helping to bring automation and high accuracy cancer detection into the medical field.
 
