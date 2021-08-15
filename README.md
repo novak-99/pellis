@@ -2,7 +2,7 @@
 
 Backend:
 https://drive.google.com/drive/folders/1tzEEiCelOoYSJxzpBsBbthqymmHycKN7?usp=sharing
-Frontend:
+<p>Frontend:</p>
 https://drive.google.com/drive/folders/1bf_vGSnGA0TkgRmL-0xU_7Tj3TVRHxqS?usp=sharing
 
 ## Inspiration
