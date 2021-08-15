@@ -1,0 +1,3 @@
+Prediction for image data/45 copy.jpg: Benign
+Prediction for image data/45 copy 2.jpg: Benign
+Prediction for image data/45.jpg: Benign
